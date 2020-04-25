@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  margin-top: 40vh;
+  color: white;
+}
+
+#clock {
+  font-size: 120px;
+  font-weight: 300;
+}
+
+#date {
+  font-size: 50px;
+  font-weight: 150;
+  opacity: 0;
+}
+
+.date_button {
+  background: blueviolet;
+  margin: 10vh;
+  font-family: "Times New Roman", Times, serif;
+  width: 30vh;
+  height: 10%;
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+  color: white;
+}
